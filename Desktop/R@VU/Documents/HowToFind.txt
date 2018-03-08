@@ -1,0 +1,5 @@
+ https://jupyter.org/try —> Try Jupiter with R
+ 
+ File—> New Notebook —> R
+
+ File —> Open —>  Upload —> R Introduction.ipynb bzw. File —> Open —>  Upload —> TestData.txt
