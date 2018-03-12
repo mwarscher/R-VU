@@ -1,2 +1,8 @@
 install.packages("tidyverse")
 install.packages("rmarkdown")
+install.packages("ncdf")
+install.packages("ncdf4")
+install.packages("chron")
+install.packages("RColorBrewer")
+install.packages("lattice")
+install.packages("ncdf4")
