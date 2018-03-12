@@ -1,0 +1,11 @@
+ https://jupyter.org/try —> Try Jupiter with R
+ 
+ File—> New Notebook —> R
+
+ File —> Open —>  Upload —> R Introduction.ipynb bzw. File —> Open —>  Upload —> TestData.txt
+
+
+ggplot(mydata) + geom_density(aes(maxTemp,color = "Maximum Temperature"),fill="firebrick1",alpha=I(.5)) +
+geom_density(aes(minTemp,color = "Minimum Temperature"),fill="dodgerblue1",alpha=I(.5)) +
+xlab("Temperaturwert (K)") + ylab("Dichte") + 
+scale_colour_manual("Legend:", values = c("black", "red"))
