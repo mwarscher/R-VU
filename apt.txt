@@ -3,4 +3,4 @@ netcdf-bin
 ncview
 nco
 cdo
-ncl
+ncl-ncarg
