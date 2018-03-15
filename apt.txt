@@ -1,2 +1,6 @@
 libnetcdf-dev
 netcdf-bin
+ncview
+nco
+cdo
+ncl
