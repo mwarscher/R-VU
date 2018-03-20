@@ -1,3 +1,6 @@
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("ncdf4")
+install.packages("raster")
+install.packages("nrgdal")
+install.packages("rasterVis")
